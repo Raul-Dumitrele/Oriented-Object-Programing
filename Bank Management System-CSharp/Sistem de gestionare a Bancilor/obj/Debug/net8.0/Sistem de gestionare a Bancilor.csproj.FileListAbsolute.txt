@@ -1,0 +1,14 @@
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\bin\Debug\net8.0\Sistem de gestionare a Bancilor.exe
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\bin\Debug\net8.0\Sistem de gestionare a Bancilor.deps.json
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\bin\Debug\net8.0\Sistem de gestionare a Bancilor.runtimeconfig.json
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\bin\Debug\net8.0\Sistem de gestionare a Bancilor.dll
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\bin\Debug\net8.0\Sistem de gestionare a Bancilor.pdb
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\Sistem de gestionare a Bancilor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\Sistem de gestionare a Bancilor.AssemblyInfoInputs.cache
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\Sistem de gestionare a Bancilor.AssemblyInfo.cs
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\Sistem de gestionare a Bancilor.csproj.CoreCompileInputs.cache
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\Sistem de gestionare a Bancilor.dll
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\refint\Sistem de gestionare a Bancilor.dll
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\Sistem de gestionare a Bancilor.pdb
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\Sistem de gestionare a Bancilor.genruntimeconfig.cache
+C:\Users\Dumitrele George\RiderProjects\Sistem de gestionare a Bancilor\Sistem de gestionare a Bancilor\obj\Debug\net8.0\ref\Sistem de gestionare a Bancilor.dll

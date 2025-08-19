@@ -1,0 +1,41 @@
+﻿namespace Sistem_de_gestionare_a_Bancilor;
+
+public class ContEconomii : Cont
+{
+    public double RataDobanda { get;private set; }
+
+    public ContEconomii(int numarCont, double soldInitial, double rataDobanda) : base(numarCont, soldInitial)
+    {
+        RataDobanda = rataDobanda;
+    }
+
+    public void AdaugaDobanda()
+    {
+        double dobanda = Sold + RataDobanda;
+        Sold += RataDobanda;
+        Console.WriteLine($"Dobanda adaugata: {dobanda} lei. Sold actualizat: {Sold} lei.");
+
+    }
+
+    public override void Depunere(double suma)
+    {
+        Sold += suma;
+        Console.WriteLine($"Depunere:{suma} lei,Soldul actualizat: {Sold} lei"); 
+    }
+
+    public override bool Retragere(double suma)
+    {
+        if (Sold > suma)
+        {
+            Sold -= suma;
+            Console.WriteLine($"Retragere:{suma}lei, Soldul actualizat: {Sold} lei.");
+            return true;
+        }
+        else
+        {
+            Console.WriteLine("Fonduri insuficiente");
+            return false;
+            
+        }
+    }
+}
