@@ -1,0 +1,14 @@
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\bin\Debug\net8.0\GestionareRezervariHoteluri.exe
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\bin\Debug\net8.0\GestionareRezervariHoteluri.deps.json
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\bin\Debug\net8.0\GestionareRezervariHoteluri.runtimeconfig.json
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\bin\Debug\net8.0\GestionareRezervariHoteluri.dll
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\bin\Debug\net8.0\GestionareRezervariHoteluri.pdb
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\GestionareRezervariHoteluri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\GestionareRezervariHoteluri.AssemblyInfoInputs.cache
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\GestionareRezervariHoteluri.AssemblyInfo.cs
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\GestionareRezervariHoteluri.csproj.CoreCompileInputs.cache
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\GestionareRezervariHoteluri.dll
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\refint\GestionareRezervariHoteluri.dll
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\GestionareRezervariHoteluri.pdb
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\GestionareRezervariHoteluri.genruntimeconfig.cache
+C:\Users\Dumitrele George\RiderProjects\GestionareRezervariHoteluri\GestionareRezervariHoteluri\obj\Debug\net8.0\ref\GestionareRezervariHoteluri.dll
