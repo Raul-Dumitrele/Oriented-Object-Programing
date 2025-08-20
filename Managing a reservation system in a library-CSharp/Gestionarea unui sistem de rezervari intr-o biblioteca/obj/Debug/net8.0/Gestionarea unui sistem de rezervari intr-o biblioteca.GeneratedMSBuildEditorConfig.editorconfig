@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Gestionarea_unui_sistem_de_rezervari_intr_o_biblioteca
+build_property.ProjectDir = C:\Users\Dumitrele George\Desktop\Proiecte ME\Proiecte OOP\Gestionarea unui sistem de rezervari intr-o biblioteca\Gestionarea unui sistem de rezervari intr-o biblioteca\

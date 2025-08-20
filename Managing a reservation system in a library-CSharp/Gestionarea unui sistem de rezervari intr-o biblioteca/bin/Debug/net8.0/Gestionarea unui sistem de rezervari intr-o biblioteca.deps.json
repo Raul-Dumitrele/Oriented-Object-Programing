@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gestionarea unui sistem de rezervari intr-o biblioteca/1.0.0": {
+        "runtime": {
+          "Gestionarea unui sistem de rezervari intr-o biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestionarea unui sistem de rezervari intr-o biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
